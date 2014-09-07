@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C2AFADA-2533-49D1-ADF9-AEE2200B9C2C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIImageViewPicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5ED68F6C-2E8B-4907-ACB6-CEF846A70DFF</key>
+		<string>https://github.com/Dominique1023/UIImagePickerController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIImageViewPicker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4728B275-6697-4AAC-AF99-A8D53DDB8252</key>
+		<string>../../../../parseDemo</string>
+		<key>5ED68F6C-2E8B-4907-ACB6-CEF846A70DFF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dominique1023/UIImagePickerController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5ED68F6C-2E8B-4907-ACB6-CEF846A70DFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4728B275-6697-4AAC-AF99-A8D53DDB8252</string>
+			<key>IDESourceControlWCCName</key>
+			<string>parseDemo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5ED68F6C-2E8B-4907-ACB6-CEF846A70DFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIImageViewPicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>

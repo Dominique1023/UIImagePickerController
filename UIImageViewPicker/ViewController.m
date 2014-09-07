@@ -36,7 +36,7 @@
     self.flippedImageView.image = flippedImage;
 
     //making the transition NOTE: the images have to be in their own UIView for the transition to work, otherwise it will animate the whole ViewController
-    [UIView transitionFromView:self.chosenImageView toView:self.flippedImageView duration:0.3 options:UIViewAnimationOptionTransitionFlipFromLeft completion:nil];
+    [UIView transitionFromView:self.chosenImageView toView:self.flippedImageView duration:0.5 options:UIViewAnimationOptionTransitionFlipFromLeft completion:nil];
 }
 
 //CHECKING IF THE DEVICE HAS A CAMERA, IF NOT SHOW AN ALERT VIEW AND ALLOWING THE USER TO CONTINUE WITH THE APP
